@@ -4,9 +4,6 @@
 
 package doublylinkedlist
 
-// Assert Enumerable implementation
-//var _ containers.EnumerableWithIndex = (*List)(nil)
-
 // Each calls the given function once for each element, passing that element's index and value.
 func (list *List[T]) Each(f func(index int, value T)) {
 	iterator := list.Iterator()
