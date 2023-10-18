@@ -7,7 +7,6 @@
 [![PyPI](https://img.shields.io/badge/License-BSD_2--Clause-green.svg)](https://github.com/kcswag/kcgods/blob/master/LICENSE)
 
 # GoDS (Go Data Structures)
-Forked from emirpasic/gods
 
 Implementation of various data structures and algorithms in Go with **_GENERICS_**.
 
